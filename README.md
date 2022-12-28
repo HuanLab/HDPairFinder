@@ -10,12 +10,12 @@ The source code of `HDPairFinder` can be freely downloaded on this [GitHub relea
 
 To run `HDPairFinder`, R version 4.2.0 or above is required and we recommend using RStudio.
 ### 1.2 Task
-``` r
-- Extraction of H/D-labeled chemical features
-- Alignment
-- Evidence-based missing value imputation
-- Putative compound annotation
-``` 
+
+- [Extraction of H/D-labeled chemical features](https://github.com/HuanLab/HDPairFinder)
+- [Alignment](https://github.com/HuanLab/HDPairFinder)
+- [Evidence-based missing value imputation](https://github.com/HuanLab/HDPairFinder)
+- [Putative compound annotation](https://github.com/HuanLab/HDPairFinder)
+
 ### 1.3 File import
 - Single import (a single mzML or mzXML file)
 - Batch import (mzML or mzXML files)
