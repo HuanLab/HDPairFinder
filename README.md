@@ -6,7 +6,7 @@
 
 ## Quick start
 ### Installation
-'HDPairFinder' can be freely downloaded on this [GitHub release page](https://github.com/HuanLab/HDPairFinder/release)
+'HDPairFinder' can be freely downloaded on this [GitHub release page](https://github.com/HuanLab/HDPairFinder/releases/tag/v1.0)
 ### Task
 - Part 1: Extraction of H/D-labeled chemical features
 - Part 2: Alignment
