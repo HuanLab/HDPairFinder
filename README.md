@@ -14,9 +14,9 @@ To run `HDPairFinder`, R version 4.2.0 or above is required and we recommend usi
 
 ### Task
 - Extraction of H/D-labeled chemical features
-- Part 2: Alignment
-- Part 3: Evidence-based missing value imputation
-- Part 4: Putative compound annotation
+- Alignment
+- Evidence-based missing value imputation
+- Putative compound annotation
 
 ### File import
 - Single import (a single mzML or mzXML file)
