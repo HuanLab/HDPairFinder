@@ -6,7 +6,7 @@
 
 ##  User manual
 
-### Part 1: Extraction of H/D-labeled chemical features
+### *Part 1: Extraction of H/D-labeled chemical features
 
 ### Part 2: Alignment
 
