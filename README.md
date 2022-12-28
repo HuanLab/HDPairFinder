@@ -23,9 +23,8 @@ To run `HDPairFinder`, R version 4.2.0 or above is required and we recommend usi
 - Batch export (aligned CSV pair table)
 
 ## Part 2: User manual
-```r
 Detailed instructions on `HDPairFinder` can be found in [HDPairFinder user manual](https://github.com/HuanLab/HDPairFinder).
-```
+
 ## Part 3: Citation
-``` r
-```
+
+
