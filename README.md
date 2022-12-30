@@ -2,7 +2,7 @@
 [![Generic badge](https://img.shields.io/badge/HDPairFinder-ver_1.0-<COLOR>.svg)](https://github.com/HuanLab/HDPairFinder)
 ![Maintainer](https://img.shields.io/badge/maintainer-Tingting_Zhao,_Tao_Huan-blue)
 
-`HDPairFinder` is an open-source cheminformatic software platform developed for MS-based water research. In particular, it extracts hydrogen and deuterium-labeled amino-containing compounds in LC-MS untargeted analysis of source water.
+`HDPairFinder` is a bioinformatics software to effectively recognize hydrogen and deuterium labeled compounds in untargeted LC-MS  analysis.
 
 ## Part 1: Quick start
 ### 1.1 Installation
