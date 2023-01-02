@@ -8,7 +8,7 @@
 ### 1.1 Installation
 The source code of `HDPairFinder` can be freely downloaded on this [GitHub release page](https://github.com/HuanLab/HDPairFinder/releases/tag/v1.0).
 
-`Demo data` can be freely downloaded on this [demo data page](https://pan.baidu.com/s/1wuEh4VMJyHmsTQxwvbsRNQ?pwd=nxyy)
+`Demo data` can be freely downloaded on this [Demo data page](https://pan.baidu.com/s/1wuEh4VMJyHmsTQxwvbsRNQ?pwd=nxyy)
 
 To run `HDPairFinder`, R version 4.2.0 or above is required and we recommend using RStudio.
 ### 1.2 Task
