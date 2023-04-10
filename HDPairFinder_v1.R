@@ -27,6 +27,7 @@ int_ratio <- c(0.4, 1.4)  # acceptable intensity ratio range (D-labeled / H-labe
 cc_threshold <- 0.7       # threshold for cross correlation
 run_inSourceFrag <- TRUE  # TRUE: use ISFrag to determine in-source fragments and remove them
                           # FALSE: do not identify in source fragments
+                          # note: ISfrag takes more than half of the running time, if the users want to speed up the calculation, you can turn off ISFrag
 ## 2) parameters for alignment ##############
 align_mz_tol <- 50    # precursor m/z tolerance (ppm)
 align_rt_tol <- 0.5   # retention time tolerance (min)
