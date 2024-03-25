@@ -850,8 +850,8 @@ if (run_pairPicking) {
                 if(length(original_isfrag) != 0){
                         pair_tb <- pair_tb[,-original_isfrag]
                 }
-                #write.csv(pair_tb,paste0(filename,"_pairs_isfrag_isotope_adduct.csv"), row.names = FALSE)
-                write.csv(pair_tb,paste0(filename,".csv"), row.names = FALSE)
+                write.csv(pair_tb,paste0(filename,"_pairs_isfrag_isotope_adduct.csv"), row.names = FALSE)
+                #write.csv(pair_tb,paste0(filename,".csv"), row.names = FALSE)
         }
 }
 
