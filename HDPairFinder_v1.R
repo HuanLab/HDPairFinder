@@ -1307,7 +1307,7 @@ if (run_annotation) {
                 sub_db <- db[abs(db$Monoisotopic_Neutral_Mass - t_mass) <=  t_mass * anno_mz_tol * 0.000001,]
                 
                 sub_db <- sub_db[!is.na(sub_db$Name),]
-                 if (length(sub_db) != 0) {
+                 if (nrow(sub_db) != 0) {
                         sub_db$mass_error <- round(abs(sub_db$Monoisotopic_Neutral_Mass - t_mass)/t_mass * 1000000,0)
                         sub_db <- sub_db[order(sub_db$mass_error,decreasing = F),]
                         
